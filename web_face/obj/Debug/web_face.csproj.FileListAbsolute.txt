@@ -1,0 +1,8 @@
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\bin\Debug\web_face.exe
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\bin\Debug\web_face.pdb
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\obj\Debug\web_face.csproj.GenerateResource.Cache
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\obj\Debug\web_face.exe
+C:\Users\MJ\Documents\Visual Studio 2008\Projects\web_face\web_face\obj\Debug\web_face.pdb
