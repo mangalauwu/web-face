@@ -1,0 +1,8 @@
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\bin\haarcascade_eye.xml
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\bin\lena.jpg
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\Emgu.CV.Example\FaceDetection\obj\Debug\ResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\Emgu.CV.Example\FaceDetection\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\Emgu.CV.Example\FaceDetection\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Example.FaceDetection.pdb
